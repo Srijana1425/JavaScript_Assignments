@@ -57,8 +57,8 @@
     - 80-100, A<br>
     - 70-89, B<br>
     - 60-69, C<br>
-    - 50-59, D<br><br>
-    - 0-49, F
+    - 50-59, D<br>
+    - 0-49, F<br>
 
 16. Check if the season is Autumn, Winter, Spring or Summer. If the user input is :<br>
     - September, October or November, the season is Autumn.<br>
@@ -120,9 +120,9 @@
 	   ***<br><br>
 
 	c. Print a pyramid pattern, if the input is 3 then the output should be similar to the given output<br>
-	     *
-	    ***
- 	   *****
+	   <br>  *
+	   <br> ***
+ 	 <br>  *****
 
 29. Write a javascript program which takes the input of filename as string and prints the extension of the file in the console.<br>
 
